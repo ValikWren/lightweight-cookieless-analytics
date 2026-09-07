@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Lightweight Cookieless Analytics
- * Plugin URI:  https://github.com/tu-usuario/lightweight-cookieless-analytics
+ * Plugin URI:  https://github.com/[USER]/lightweight-cookieless-analytics
  * Description: Ultra-light, cookieless, real-time analytics for WordPress. No personal data stored.
  * Version:     1.0.0
  * Author:      Your Name
